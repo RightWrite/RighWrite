@@ -1,6 +1,6 @@
 ### Hi there, I'm Vishesh 👋
 
-Passionate cloud architect and data science enthusiast, I bring a developer's mindset to deliver high-impact cloud solutions.
+Passionate cloud architect and a machine learning enthusiast, I bring a developer's mindset to deliver high-impact cloud solutions.
 Proficient in AWS, Kubernetes, Platform Engineering, Programming, Data Engineering, and Machine Learning, I am a strong advocate
 for DevOps practices and cloud-native architecture. Known for optimizing development workflows, leading technical teams, and
 implementing industry best practices, I ensure software security and compliance. My MSc in Artificial Intelligence from the University
